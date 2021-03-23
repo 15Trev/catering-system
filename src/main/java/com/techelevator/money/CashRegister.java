@@ -1,4 +1,4 @@
-package Money;
+package com.techelevator.money;
 
 public class CashRegister {
 	

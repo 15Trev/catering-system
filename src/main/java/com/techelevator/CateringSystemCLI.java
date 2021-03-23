@@ -5,12 +5,11 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import com.techelevator.ReaderAndWriter.InventoryReader;
-import com.techelevator.ReaderAndWriter.Log;
 import com.techelevator.inventory.Item;
+import com.techelevator.money.CashRegister;
+import com.techelevator.readerandwriter.InventoryReader;
+import com.techelevator.readerandwriter.Log;
 import com.techelevator.view.Menu;
-
-import Money.CashRegister;
 
 /*
  * This class should control the workflow of the application, but not do any other work

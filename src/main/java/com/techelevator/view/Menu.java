@@ -9,10 +9,9 @@ import java.util.Scanner;
 
 import com.techelevator.CateringSystem;
 import com.techelevator.CateringSystemCLI;
-import com.techelevator.ReaderAndWriter.InventoryReader;
 import com.techelevator.inventory.Item;
-
-import Money.CashRegister;
+import com.techelevator.money.CashRegister;
+import com.techelevator.readerandwriter.InventoryReader;
 
 /*
  * This is the only class that should have any usage of System.out or System.in

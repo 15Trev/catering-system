@@ -6,9 +6,9 @@ import java.util.Map;
 
 import org.junit.*;
 
-import com.techelevator.ReaderAndWriter.InventoryReader;
 import com.techelevator.inventory.Appetizer;
 import com.techelevator.inventory.Item;
+import com.techelevator.readerandwriter.InventoryReader;
 
 
 

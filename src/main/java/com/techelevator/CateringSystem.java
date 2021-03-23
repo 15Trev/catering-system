@@ -5,15 +5,14 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-import com.techelevator.ReaderAndWriter.InventoryReader;
-import com.techelevator.ReaderAndWriter.Log;
 import com.techelevator.inventory.Appetizer;
 import com.techelevator.inventory.Beverage;
 import com.techelevator.inventory.Dessert;
 import com.techelevator.inventory.Entree;
 import com.techelevator.inventory.Item;
-
-import Money.CashRegister;
+import com.techelevator.money.CashRegister;
+import com.techelevator.readerandwriter.InventoryReader;
+import com.techelevator.readerandwriter.Log;
 
 public class CateringSystem {
 

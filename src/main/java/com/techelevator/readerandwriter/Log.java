@@ -1,4 +1,4 @@
-package com.techelevator.ReaderAndWriter;
+package com.techelevator.readerandwriter;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,8 +15,7 @@ import java.util.List;
 import java.util.Scanner;
 
 import com.techelevator.inventory.Item;
-
-import Money.CashRegister; 
+import com.techelevator.money.CashRegister; 
 
 public class Log {
 	

@@ -2,7 +2,7 @@ package com.techelevator;
 
 import org.junit.*;
 
-import Money.CashRegister;
+import com.techelevator.money.CashRegister;
 
 public class CashRegisterTest {
 

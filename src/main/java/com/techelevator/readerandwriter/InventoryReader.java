@@ -1,4 +1,4 @@
-package com.techelevator.ReaderAndWriter;
+package com.techelevator.readerandwriter;
 
 import java.io.File;
 import java.io.FileNotFoundException;
